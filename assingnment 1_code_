@@ -1,3 +1,4 @@
+smart home application
 #include <Servo.h>
 
 int output1Value = 0;
